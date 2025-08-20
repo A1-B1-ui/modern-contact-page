@@ -3,7 +3,7 @@ A simple and modern contact form built with HTML, CSS, and JavaScript.
 It allows users to send messages quickly with a clean and responsive design.  
 
 ## Live Demo
-[View Project](https://your-live-link.netlify.app)
+
 
 ## Features
 - Responsive design for all devices
@@ -15,6 +15,8 @@ It allows users to send messages quickly with a clean and responsive design.
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript  
+- JavaScript
+
+  “Thanks for visiting this project!” or “Built with ❤️ using HTML, CSS, and JS.”
 
 
