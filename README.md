@@ -17,6 +17,6 @@ It allows users to send messages quickly with a clean and responsive design.
 - CSS
 - JavaScript
 
-  “Thanks for visiting this project!” or “Built with ❤️ using HTML, CSS, and JS.”
+Thanks for visiting this project!” or “Built with ❤️ using HTML, CSS, and JS.”
 
 
