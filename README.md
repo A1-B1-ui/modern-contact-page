@@ -3,7 +3,7 @@ A simple and modern contact form built with HTML, CSS, and JavaScript.
 It allows users to send messages quickly with a clean and responsive design.  
 
 ## Live Demo
-https://moder-contact-page.netlify.app/
+https://modern-contact-page.netlify.app/
 
 ## Features
 - Responsive design for all devices
@@ -17,6 +17,6 @@ https://moder-contact-page.netlify.app/
 - CSS
 - JavaScript
 
-Thanks for visiting this project!” or “Built with ❤️ using HTML, CSS, and JS.”
+##Thanks for visiting this project!” or “Built with ❤️ using HTML, CSS, and JS.”
 
 
